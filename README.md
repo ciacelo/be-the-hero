@@ -2,7 +2,9 @@
 Plataforma para publicação de casos urgentes, comunitários e beneficentes.
 
 Para instalar:
-npm install
+
+`npm install`
 
 Para executar em desenvolvimento:
-npm start
+
+`npm start`
